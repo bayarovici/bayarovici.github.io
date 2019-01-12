@@ -1,1 +1,0 @@
-# bayarovici.github.io
