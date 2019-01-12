@@ -3,4 +3,4 @@ git add .
 
 git commit -m "$@" 
 #git add -u
-git push origin develop
+git push origin master
